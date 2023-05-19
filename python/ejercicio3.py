@@ -1,4 +1,4 @@
-#Diseñe un algoritmo que guarde el nombre del aprendiz, nombre del curso, nota definitiva, el numero de clases en el semestre y el número de las fallas. En el caso de que las fallas superen el 30% del número de clases se debe mostrar la nota que no aprobó y se calificara cero(0)
+#Design an algorithm that stores the trainee's name, course name, final grade, the number of classes in the semester and the number of failures. In case the failures exceed 30% of the number of classes, the failed grade should be displayed and a zero (0) grade will be given.
 
 name_of_trainee= input("Enter the trainee's name:")
 curse_name= input("Enter the name of the course: ")

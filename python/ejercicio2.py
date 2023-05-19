@@ -1,4 +1,4 @@
-#Diseñe un algoritmo que, al ingresar la edad del usuario, si es mayor de edad mostrar el un mensaje “es mayor de edad”.
+#Design an algorithm that, when entering the user's age, if he/she is of legal age, displays a message "he/she is of legal age".
 
 age = int(input("Enter your age: "))
 

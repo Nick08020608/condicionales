@@ -1,4 +1,4 @@
-#Diseñe un algoritmo que capture dos números, y que realice la suma de dichos números, y mostrar los datos si es el resultado no es negativo.
+#Design an algorithm that captures two numbers, and performs the sum of those numbers, and display the data if the result is not negative.
 
 number= int(input("Ienter a number: "))
 number_two= int(input("enter a number: "))
