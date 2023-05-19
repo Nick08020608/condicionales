@@ -3,9 +3,9 @@
 number= int(input("Ingrese un numero: "))
 number_two= int(input("Ingrese un numero. "))
  
-suma= number+number_two
+sum= number+number_two
 
-if suma >0:
-    print("El valor de la suma es: ", suma)
+if sum >0:
+    print("El valor de la suma es: ", sum)
 else:
     print("Devido a que es un numero negativo no puedo realizar la operacion...")
