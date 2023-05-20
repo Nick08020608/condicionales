@@ -1,0 +1,1 @@
+first_qualification= int(input("Enter the rating: "))
