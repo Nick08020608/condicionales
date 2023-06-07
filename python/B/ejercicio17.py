@@ -7,7 +7,7 @@ number_two= int(input("Enter a number: "))
 list.append(number_one)
 list.append(number_two)
 
-print(f"\nThe numbers to add are {number_one} and {number_two}")
+print(f"\n ")
 
 list.sort()
 
